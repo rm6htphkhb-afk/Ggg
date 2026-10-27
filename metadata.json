@@ -1,0 +1,6 @@
+{
+  "name": "S4X MOBILE OPTIMIZER",
+  "description": "Premium Android gaming and performance optimizer with real-time hardware telemetry, RAM monitoring, network ping tools, and gaming profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
